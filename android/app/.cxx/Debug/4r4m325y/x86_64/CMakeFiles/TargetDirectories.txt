@@ -1,0 +1,2 @@
+C:/src/projects/supabase_app/android/app/.cxx/Debug/4r4m325y/x86_64/CMakeFiles/edit_cache.dir
+C:/src/projects/supabase_app/android/app/.cxx/Debug/4r4m325y/x86_64/CMakeFiles/rebuild_cache.dir

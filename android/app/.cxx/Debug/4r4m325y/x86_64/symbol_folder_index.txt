@@ -1,0 +1,1 @@
+C:\src\projects\supabase_app\build\app\intermediates\cxx\Debug\4r4m325y\obj\x86_64
