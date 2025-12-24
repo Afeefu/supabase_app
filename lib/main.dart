@@ -19,8 +19,7 @@ void main() async {
     anonKey: supabaseKey,
   );
   await GetStorage.init();
-  Stripe.publishableKey =
-      'pk_test_51RAGlwI2aMedNqvReeSSdtyKp7e2WDsdbLb6kqx2RxYHvPZkC60mkVRjy2Dlnz6mds6Ha8fH5sNXRR0tBYySC2Hw00PfHlfzP4';
+  Stripe.publishableKey = stripekey;
   await Stripe.instance.applySettings();
   runApp(MyApp());
 }
